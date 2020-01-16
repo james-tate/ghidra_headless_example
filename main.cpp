@@ -9,5 +9,3 @@ int main(void){
   Bear *b = makeBear();
   Deer *d = makeDeer();
 }
-
-//analyzeHeadless $(pwd) names -import $(pwd)/*.so -recursive -scriptPath /home/james/ghidra_scripts/ -postScript test.py | grep Found
